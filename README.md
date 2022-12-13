@@ -23,7 +23,7 @@ Você pode fazer a divisão do array pela posição zero dele desta forma:
 
 `sizeof(arr) / sizeof(arr[0]);`
 
-### O que acontece por baixo dos panos??
+### O que acontece por baixo dos panos?? (De forma breve)
 
 Após isso ele vai iterar da metade do array até o início chamando a subrotina `construirHeap()`, passando nela como parâmetros o `array`, `numero de posições` e a variável `"i"` da iteração do laço de repetição. Após isso ele vai construir a estrutura
 
@@ -34,3 +34,5 @@ No algoritmo ele declara o maior como o nó raiz, e declara também o nó esquer
 - Se o maior for diferente do `i` da iteração que é a raiz faça `rotacionar();` e `construirHeap();`
 
 Após isso ele vai iterar ordenando fazendo de fato o HeapSort executando `rotacionar()` e `construirHeap()` de modo que ele caso o filho seja maior, troque de lugar com o nó raiz, dessa forma fazendo a ordenação.
+
+### Vídeo de Explicação do HeapSort
