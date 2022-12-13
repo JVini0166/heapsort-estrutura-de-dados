@@ -1,4 +1,4 @@
-# HeapSort - Estrutura de Dados
+# HeapSort - Algoritmo de Ordenação
 
 Implementação do Heap Sort - Estrutura de Dados - IFSP - Aluno: José Vinícius de Paula Santos Prof.: Marques Moreira de Sousa
 
