@@ -11,7 +11,7 @@ O algoritmo heapsort é um algoritmo de ordenação generalista, e faz parte da 
 Para chamar a rotina HeapSort você precisa preencher os parâmetros passando um array e o número de posições dele após isso ele vai ordenar o array e todo seu conteúdo, após isso é só iterar sobre o array que terá ele ordenado pelo HeapSort. Isso pode ser exemplificado em 3 passos:
 
 1. Chamar heapSort()
-2. Passar como parâmetro o array: heapSort(int arr[], int N)
+2. Passar como parâmetro o array e o número de posições dele: Ex.: `heapSort(int arr[], int N)`
 3. Iterar sobre o Array para ver o resultado da ordenação
 
 Exemplo de declaração de array:  
