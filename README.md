@@ -10,6 +10,8 @@ O objetivo deste projeto tem como apresentar o HeapSort, trabalho proposto pelo 
 
 O algoritmo heapsort é um algoritmo de ordenação generalista, e faz parte da família de algoritmos de ordenação por seleção. Foi desenvolvido em 1964 por Robert W. Floyd e J.W.J Williams.
 
+![](heapsort-anim.gif)
+
 ## Vídeo explicando HeapSort
 
 É possível acessar o vídeo e aprender sobre o HeapSort clicando aqui:
