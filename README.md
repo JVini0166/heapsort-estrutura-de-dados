@@ -16,6 +16,8 @@ O algoritmo heapsort é um algoritmo de ordenação generalista, e faz parte da 
 
 É possível acessar o vídeo e aprender sobre o HeapSort clicando aqui:
 
+https://youtu.be/rhPdG4D6KLg
+
 ## Manual de Utilização
 
 Nesse repositório possui um arquivo chamado `Manual.md`, nele contém as instruções de como utilizar o HeapSort no algoritmo.
